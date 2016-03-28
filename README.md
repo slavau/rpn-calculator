@@ -6,10 +6,10 @@ This is a command line tool, no GUI. It takes an input from user in a form of a 
 
 To build call
 
-    `mvn clean install`.
+    mvn clean install
 
     It will generate jars in the target directory. Requirements: Java 8.
 
 To Run call:
 
-    `java -jar target/rpn-calculator-1.0.jar`
+    java -jar target/rpn-calculator-1.0.jar
